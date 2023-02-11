@@ -3,7 +3,7 @@
 2. API with HTTP endpoint to extract pokemon moves by ID from _PokeApi.co_
 
 ## To clone project type in your terminal:
-`git-clone`
+`git-clone https://github.com/Wiktor90/Pokemony.git`
 
 ## Set up your local env:
 1. Go to repo directory and create virtual environment for example like below:
