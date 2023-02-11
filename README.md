@@ -1,4 +1,4 @@
-##This repository contains two tasks:
+## This repository contains two tasks:
 1. CLI python script to extract pokemon moves by ID from _PokeApi.co_ 
 2. API with HTTP endpoint to extract pokemon moves by ID from _PokeApi.co_
 
