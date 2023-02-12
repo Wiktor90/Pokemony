@@ -6,9 +6,9 @@
 `git-clone https://github.com/Wiktor90/Pokemony.git`
 
 ## Set up your local env:
-1. Go to repo directory and create virtual environment for example like below:
+1. Go to repo directory `cd Pokemony` and create virtual environment for example like below:
 
-    `pythom -m venv venv`
+    `python -m venv venv`
 
 
 2. Next activate your `venv` (command depends on your OS) and install dependencies:
@@ -21,7 +21,7 @@
 2. Script takes one integer as require argument: _pokemon ID_
 3. To call script you need to type `-id` flag as example below
 ### Run:
-* python: `python get_pokemon_moves -id 1`
+* python: `python get_pokemon_moves.py -id 1`
 * bash: `.\get_pokemon_moves.py -id 3`
 
 ### Example Output in the terminal:
